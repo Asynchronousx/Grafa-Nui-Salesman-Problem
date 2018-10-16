@@ -1,6 +1,4 @@
 # Grafa-Nui-Salesman-Problem
-Salesman Problem resolved with Undirected Graph Implementation, Backtracking algorithm and Greedy Algorithm Nearest Neighbour.
-Problem of the Sovereign traveler: 
 The Realm of Grafa-Nui It is composed of a main island, where there is the Capital, and by N Smaller islands, all with a small Airport. After having represented on a map the islands, the king wants to organize a control tour of its governors, by plane, but it wants to save time and fuel by appropriately choosing the order of visit of the N Islands, starting from the capital and returning home to the End of the round.  
 
 # Problem: 
